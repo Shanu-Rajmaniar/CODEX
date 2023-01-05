@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "JSESSIONID",
+      "value": "42EB9597BD8CB64064F648EC85CA9FEF-n1",
+      "domain": "codeforces.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "39ce7",
+      "value": "CFeClE0I",
+      "domain": "codeforces.com",
+      "path": "/",
+      "expires": 1637843492.454962,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__utma",
+      "value": "71512449.1427956622.1636843494.1636843494.1636843494.1",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": 1699915501,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__utmc",
+      "value": "71512449",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__utmz",
+      "value": "71512449.1636843494.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": 1652611501,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__utmt",
+      "value": "1",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": 1636844093,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "fr",
+      "value": "0vbkuVhDX74FfHZng..BhkD_m...1.0.BhkD_m.",
+      "domain": ".facebook.com",
+      "path": "/",
+      "expires": 1644619494.082636,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "evercookie_png",
+      "value": "ydgaw4zwecce825nd3",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "evercookie_etag",
+      "value": "ydgaw4zwecce825nd3",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "evercookie_cache",
+      "value": "ydgaw4zwecce825nd3",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "70a7c28f3de",
+      "value": "ydgaw4zwecce825nd3",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": 1924905600,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "X-User-Sha1",
+      "value": "61926f1b0c0ece57948c203e6df3fc011dfbf351",
+      "domain": "codeforces.com",
+      "path": "/",
+      "expires": 1668379500.442099,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__utmb",
+      "value": "71512449.3.10.1636843494",
+      "domain": ".codeforces.com",
+      "path": "/",
+      "expires": 1636845301,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://codeforces.com",
+      "localStorage": [
+        {
+          "name": "70a7c28f3de",
+          "value": "ydgaw4zwecce825nd3"
+        }
+      ]
+    }
+  ]
+}

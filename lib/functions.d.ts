@@ -1,0 +1,10 @@
+export declare function browse(): Promise<void>;
+export declare function auto(): Promise<void>;
+export declare function submit(problemID: any): Promise<void>;
+export declare function parse(contest: any): void;
+export declare function gettests(problem: any): Promise<void>;
+export declare function runtests(problem: any): Promise<void>;
+export declare function createtest(problem: any): void;
+export declare function deletetest(problem: any, test: any): void;
+export declare function edittest(problem: any, test: any): void;
+export declare function purgetest(problem: any): void;
